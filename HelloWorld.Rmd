@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "Anıl"
 date: "7/21/2021"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
